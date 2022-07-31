@@ -35,7 +35,7 @@ export default function App() {
                   discription: {singleApi.Description}
                 </h3>
                 <h3 className="http">http? :{singleApi.HTTPS}</h3>
-                <a href={singleApi.Link}>go to the webiste</a>
+                <a href={singleApi.Link}>visit</a>
               </div>
             ))}
         </div>
