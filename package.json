@@ -31,5 +31,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "name": "public-api-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zabi-haz/public-api-store.git",
+  "license": "MIT"
 }
